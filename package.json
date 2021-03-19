@@ -1,0 +1,30 @@
+{
+  "name": "rivejs-react",
+  "version": "1.0.0",
+  "description": "RiveJS based on components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEmii/RiveJS-React.git"
+  },
+  "keywords": [
+    "rivejs"
+  ],
+  "author": "Emir Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEmii/RiveJS-React/issues"
+  },
+  "homepage": "https://github.com/MrEmii/RiveJS-React#readme",
+  "devDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "rive-canvas": "^0.6.13"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
